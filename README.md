@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:F4A7BB,100:E88EAD&height=230&section=header&text=Donara%20Galstyan&fontSize=52&fontColor=FFFFFF&fontFamily=Georgia&animation=fadeIn&fontAlignY=38&desc=CS%Student%20%E2%80%A2%20UW%20%E2%80%A2%20UW%20AI%Enthusiast&descAlignY=58&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:F4A7BB,100:E88EAD&height=230&section=header&text=Donara%20Galstyan&fontSize=52&fontColor=FFFFFF&fontFamily=Georgia&animation=fadeIn&fontAlignY=38&desc=CS%Student%20%E2%80%A2%20UW%20%E2%80%A2%20AI%20%Enthusiast&descAlignY=58&descSize=17" />
 </p>
 
 Hi! I'm Donara, a Computer Science student at the University of Washington interested in software engineering, AI, and building practical products.
