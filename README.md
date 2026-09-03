@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="./Screenshot 2026-09-03 at 15.16.10.png" width="32%" />
-  <img src="./Screenshot 2026-09-03 at 15.19.24.png" width="32%" />
   <img src="./Screenshot 2026-09-03 at 15.19.41.png" width="32%" />
+  <img src="./Screenshot 2026-09-03 at 15.19.24.png" width="32%" />
 </p>
 
 Hi! I'm Donara, a Computer Science student at the University of Washington interested in software engineering, AI, and building practical products.
