@@ -22,4 +22,4 @@
 - 💻 Previously interned at **Picsart**, am currently Interning at **Bramsler**
 - 📼 Studying Computer Science at the **University of Washington**
 - 🫧 I speak Armenian, Russian, and English
-- 👩🏼‍💻 Reach me on [LinkedIn](https://www.linkedin.com/in/donara-galstyan/) or [email](donna.galstyan.31@gmail.com)
+- 👩🏼‍💻 Reach me on [LinkedIn](https://www.linkedin.com/in/donara-galstyan/) or <a href="mailto:donna.galstyan.31@gmail.com">email</a>
