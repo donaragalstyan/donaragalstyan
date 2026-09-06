@@ -37,3 +37,7 @@
 - 📼 Studying Computer Science at the **University of Washington**
 - 🫧 I speak Armenian, Russian, and English
 - 👩🏼‍💻 Reach me on [LinkedIn](https://www.linkedin.com/in/donara-galstyan/) or <a href="mailto:donna.galstyan.31@gmail.com">email</a>
+
+
+
+<a href="https://u8views.com/github/donaragalstyan"><img src="https://u8views.com/api/v1/github/profiles/173017967/views/day-week-month-total-count.svg"></a>
