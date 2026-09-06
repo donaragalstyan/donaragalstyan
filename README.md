@@ -33,7 +33,7 @@
 
 - ☁️ I'm currently building **Sellstice** & **Sylph**
 - 🧸 Interested in AI systems, agents, and applied ML
-- 💻 Previously interned at **Picsart**, am currently Interning at **Bramsler**
+- 💻 Previously interned at **Picsart**, am currently interning at **Bramsler**
 - 📼 Studying Computer Science at the **University of Washington**
 - 🫧 I speak Armenian, Russian, and English
 - 👩🏼‍💻 Reach me on [LinkedIn](https://www.linkedin.com/in/donara-galstyan/) or <a href="mailto:donna.galstyan.31@gmail.com">email</a>
