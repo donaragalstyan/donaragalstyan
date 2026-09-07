@@ -31,7 +31,7 @@
 
 ## About Me
 
-- ☁️ I'm currently building **Sellstice** & **Sylph**
+- ☁️ I'm currently building **Sylph**
 - 🧸 Interested in AI systems, agents, and applied ML
 - 💻 Previously interned at **Picsart**, am currently interning at **Bramsler**
 - 📼 Studying Computer Science at the **University of Washington**
