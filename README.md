@@ -29,11 +29,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZnMzc4eGlmdHhldXBnaXVrcHp6cmtsemMwa3A3Nmo0enQzeTY0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="500"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/donaragalstyan">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E88EAD&fontSize=54&height=90&width=420&text=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="────୨ৎ────" />
   </a>
-</p>
+</p> -->
 
 ## About Me
 
