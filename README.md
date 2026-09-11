@@ -99,9 +99,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=donaragalstyan&layout=compact&theme=tokyonight&title_color=E88EAD&icon_color=E88EAD&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=donaragalstyan&layout=compact&theme=tokyonight&title_color=E88EAD&icon_color=E88EAD&hide_border=true&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
 <!-- ### 📈 Contribution Graph -->
 
